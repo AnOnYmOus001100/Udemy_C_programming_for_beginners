@@ -1,0 +1,6 @@
+hello this is a text file for testing file io
+This is the second line of file.txt
+This is the third line
+This is the fourth line
+This is the fivth line.
+This is the last line
